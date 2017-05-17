@@ -1,2 +1,3 @@
 # FreeCodeCamp
-My cose journey with Free code camp
+My code journey with Free code camp
+and it begins here
